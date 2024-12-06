@@ -1,6 +1,6 @@
 ## Qbs login updates
 
-qbs login updates
+qbs updates
 
 #### License
 

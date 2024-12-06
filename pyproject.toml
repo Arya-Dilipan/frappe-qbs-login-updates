@@ -3,7 +3,7 @@ name = "frappe_qbs_login_updates"
 authors = [
     { name = "arya", email = "arya.qbs@gmail.com"}
 ]
-description = "qbs login updates"
+description = "qbs updates"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

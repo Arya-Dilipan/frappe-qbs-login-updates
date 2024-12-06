@@ -1,7 +1,7 @@
 app_name = "frappe_qbs_login_updates"
 app_title = "Qbs login updates"
 app_publisher = "arya"
-app_description = "qbs login updates"
+app_description = "qbs updates"
 app_email = "arya.qbs@gmail.com"
 app_license = "mit"
 
