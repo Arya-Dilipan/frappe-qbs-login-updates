@@ -1,7 +1,7 @@
 [project]
 name = "frappe_qbs_login_updates"
 authors = [
-    { name = "Arya", email = "arya.qbs@gmail.com"}
+    { name = "arya", email = "arya.qbs@gmail.com"}
 ]
 description = "qbs login updates"
 requires-python = ">=3.10"

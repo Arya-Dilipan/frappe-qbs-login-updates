@@ -1,4 +1,4 @@
-## Frappe QBS Login Updates
+## Qbs login updates
 
 qbs login updates
 

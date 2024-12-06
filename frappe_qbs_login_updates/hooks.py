@@ -1,6 +1,6 @@
 app_name = "frappe_qbs_login_updates"
-app_title = "Frappe QBS Login Updates"
-app_publisher = "Arya"
+app_title = "Qbs login updates"
+app_publisher = "arya"
 app_description = "qbs login updates"
 app_email = "arya.qbs@gmail.com"
 app_license = "mit"
@@ -15,7 +15,7 @@ app_license = "mit"
 # 	{
 # 		"name": "frappe_qbs_login_updates",
 # 		"logo": "/assets/frappe_qbs_login_updates/logo.png",
-# 		"title": "Frappe QBS Login Updates",
+# 		"title": "Qbs login updates",
 # 		"route": "/frappe_qbs_login_updates",
 # 		"has_permission": "frappe_qbs_login_updates.api.permission.has_app_permission"
 # 	}
